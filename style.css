@@ -223,6 +223,8 @@ main form input {
     font-size: .7rem;
     margin-bottom: 20px;
     border-radius: 30px;
+    border: none;
+    outline: none;
 }
 
 main form button {
